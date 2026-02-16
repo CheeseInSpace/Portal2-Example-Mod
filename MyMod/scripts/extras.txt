@@ -1,10 +1,44 @@
 "Extras"
 {
-	"chapter1"
-	{
-		"title"		"Chapter 1"
-		"subtitle"	"The Beginning"
-		"command"	"map sp_a1_00"
-		"pic"		"vgui/chapters/chapter1"
-	}
+
+"New_Game"
+{
+        "title" "New Game"
+        "subtitle"  "Start New Game"
+        "map"   "sp_a1_00"
+        "pic"   "vgui/chapters/chapter1"
+}
+
+"previous_Save"
+{
+	"title"		"Continue"
+	"subtitle"	"Loads your last quicksave."
+	"pic"		"vgui/chapters/chapter1"
+	"command"	"load quick"
+}
+
+"empty"
+{
+	"title"		" "
+	"subtitle"	" "
+	"command"	" "
+}
+"empty"
+{
+	"title"		"Chapter Selection:"
+	"subtitle"	" "
+	"command"	" "
+}
+
+
+"chapter1"
+{
+	"title"		"Chapter 1"
+	"subtitle"	"The Beginning"
+	"map"   "sp_a1_00"
+	"pic"		"vgui/chapters/chapter1"
+}
+	
+	
+	
 }
