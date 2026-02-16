@@ -1,5 +1,5 @@
 # Portal 2 Example Mod
- A sample mod for Portal 2, to quickly get started. If you're looking for a P2:CE mod template, Check out [this Repositery](https://github.com/StrataSource/p2ce-mod-template).
+ A sample mod for Portal 2, to quickly get started. If you're looking for a P2:CE mod template, Check out [This Repository](https://github.com/StrataSource/p2ce-mod-template).
 
 ## Installation
 Please see the [wiki](https://github.com/CheeseInSpace/Portal2-Example-Mod/wiki/Getting-Started) for information about instalation
