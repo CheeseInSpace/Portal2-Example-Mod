@@ -9,5 +9,5 @@ Maps go into the "maps" folder. Currently, in the chapter menu, "Chapter 1" lead
 
 ## Credits
 * [p2ce-mod-template](https://github.com/StrataSource/p2ce-mod-template) - Some things was taken from there
-* [Divinity](https://www.moddb.com/mods/portal-divinity) - Again, some things were taken from there
+* [Portal: Divinity, Chapter 1 - The Shower Update](https://www.moddb.com/mods/portal-divinity) - Again, some things were taken from there
 * [Portal Stories: Mel](https://store.steampowered.com/app/317400/Portal_Stories_Mel/) - Spinner icon
